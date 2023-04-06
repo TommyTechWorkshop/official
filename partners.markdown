@@ -6,3 +6,4 @@ permalink: /partners/
 
 友链请联系 island_zhu@foxmail.com
 
+![请联系](/assets/wechat.jpeg)
