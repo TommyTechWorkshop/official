@@ -21,11 +21,13 @@
 title: 汤米科技工作室
 email: island_zhu@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+
   人工智能应用软件开发；信息系统集成服务；大数据服务；软件开发。（除许可业务外，可自主依法经营法律法规非禁止或限制的项目）
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.tommytech.online/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: memorycancel
 # github_username:  memorycancel
+beian: "鄂ICP备2023005873号-1"
 
 # Build settings
 theme: minima
